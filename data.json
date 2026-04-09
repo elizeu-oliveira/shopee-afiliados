@@ -2,8 +2,16 @@
   "account": "shopee",
   "account_name": "Achados Shopee",
   "theme_color": "#EE4D2D",
-  "updated_at": "2026-04-08T22:13:55.180511",
+  "updated_at": "2026-04-08T22:27:48.576626",
   "products": [
+    {
+      "num": 4,
+      "name": "COLETE ALFAIATARIA FEMININO FORRADO",
+      "price": "R$29,89",
+      "affiliate_url": "https://s.shopee.com.br/8AS0ZOU0AL",
+      "image_url": "https://down-br.img.susercontent.com/file/br-11134207-81ztp-mkm6dvwydywxcd@resize_w450_nl.webp",
+      "published_at": "2026-04-08 22:27:47"
+    },
     {
       "num": 0,
       "name": "SHORT SAIA SOCIAL FEMININO ALFAIATARIA",
