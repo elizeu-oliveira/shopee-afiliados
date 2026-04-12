@@ -2,7 +2,7 @@
   "account": "shopee",
   "account_name": "Achados Shopee",
   "theme_color": "#EE4D2D",
-  "updated_at": "2026-04-11T18:38:31.335606",
+  "updated_at": "2026-04-12T02:15:44.941271",
   "products": [
     {
       "num": 8,
@@ -27,6 +27,14 @@
       "affiliate_url": "https://s.shopee.com.br/8AS0ZOU0AL",
       "image_url": "https://down-br.img.susercontent.com/file/br-11134207-81ztp-mkm6dvwydywxcd@resize_w450_nl.webp",
       "published_at": "2026-04-08 22:27:47"
+    },
+    {
+      "num": 1,
+      "name": "Camiseta Listrada",
+      "price": "",
+      "affiliate_url": "https://s.shopee.com.br/1LbjjrCKiu",
+      "image_url": "images/produto_1.webp",
+      "published_at": "2026-04-12 02:15:29"
     },
     {
       "num": 0,
