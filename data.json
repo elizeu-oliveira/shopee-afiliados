@@ -2,8 +2,21 @@
   "account": "shopee",
   "account_name": "Happy Day Ofertas",
   "theme_color": "#EE4D2D",
-  "updated_at": "2026-04-15T13:04:02.106871",
+  "updated_at": "2026-04-20T18:42:23.686447",
   "products": [
+    {
+      "id": "2c029e60-1c9f-4486-9a23-e7c130595533",
+      "num": 3,
+      "name": "Oculos de Sol Redondo Premium Flexivel Blogueira Moderno Luxo uv400 Feminino Masculino",
+      "price": "",
+      "affiliate_url": "https://s.shopee.com.br/7fVzxLe2DX",
+      "image_url": "https://pub-971b79479fa9403d85ad248676016997.r2.dev/shopee/images/produto_3_oculos-de-sol-redondo-premium-flexivel-blogueira-moderno-lux.jpg",
+      "badge_text": "Cupom Disponivel!",
+      "has_coupon": true,
+      "is_flash": true,
+      "is_popular": true,
+      "published_at": "2026-04-20 18:41"
+    },
     {
       "id": "2645e31c-faac-407f-b450-ed63ea018975",
       "num": 2,
